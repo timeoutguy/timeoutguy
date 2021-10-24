@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcus Vinícius aka Timeoutguy</h1>
 <h3 align="center">A frontend (sometimes backend) developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timeoutguy" alt="timeoutguy" /></a> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timeoutguy&theme=tokyonight&show_icons=true)
 
 - 🔭 I’m currently working on [Twitch.tv app clone](https://github.com/timeoutguy/twitch-react-native)
 
