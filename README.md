@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marcus Vinícius aka Timeoutguy</h1>
 <h3 align="center">A frontend (sometimes backend) developer</h3>
 
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timeoutguy&theme=tokyonight&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timeoutguy)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/timeoutguy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timeoutguy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timeoutguy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
