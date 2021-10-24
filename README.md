@@ -5,6 +5,7 @@
   <a href="https://github.com/timeoutguy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timeoutguy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timeoutguy&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 - 🌱 I’m currently learning **React, VueJS, NodeJS and TypeScript**
