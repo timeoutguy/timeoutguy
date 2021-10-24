@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcus Vinícius aka Timeoutguy</h1>
 <h3 align="center">A frontend (sometimes backend) developer</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timeoutguy&theme=tokyonight&show_icons=true)
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timeoutguy&theme=tokyonight&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timeoutguy)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 - 🔭 I’m currently working on [Twitch.tv app clone](https://github.com/timeoutguy/twitch-react-native)
 
