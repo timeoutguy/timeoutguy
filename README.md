@@ -7,9 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timeoutguy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-
-- 🔭 I’m currently working on [Twitch.tv app clone](https://github.com/timeoutguy/twitch-react-native)
-
 - 🌱 I’m currently learning **React, VueJS, NodeJS and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://timeoutguy.github.io/portfolio/](https://timeoutguy.github.io/portfolio/)
