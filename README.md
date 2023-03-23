@@ -8,11 +8,11 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning **React, VueJS, NodeJS and TypeScript**
+- 🌱 I’m currently working with **Angular, SASS and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://timeoutguy.github.io/portfolio/](https://timeoutguy.github.io/portfolio/)
 
-- 💬 Ask me about **React, HTML, CSS and JS**
+- 💬 Ask me about **React, HTML, CSS, JS, Angular and TypeScript**
 
 - 📫 How to reach me **marcus.dev@protonmail.com**
 
