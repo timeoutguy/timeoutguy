@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcus Vinícius aka Timeoutguy</h1>
+<h1 align="center">Hi 👋, I'm Marcus Vinícius aka timeoutguy</h1>
 <h3 align="center">A frontend (sometimes backend) developer</h3>
 
 <div align="center">
