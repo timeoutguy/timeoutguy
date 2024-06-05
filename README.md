@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently working with **Angular, SASS and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://timeoutguy.github.io/portfolio/](https://timeoutguy.github.io/portfolio/)
-
 - 💬 Ask me about **React, HTML, CSS, JS, Angular and TypeScript**
 
 - 📫 How to reach me **marcus.dev@protonmail.com**
@@ -21,9 +19,6 @@
 <div>
     <a href="mailto:marcus.dev@protonmail.com">
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/ezvyny/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
 
