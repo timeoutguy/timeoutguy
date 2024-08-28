@@ -8,7 +8,7 @@
   </a>
 </div>
 
-- 🌱 I’m currently working with **Angular, SASS and TypeScript**
+- 🌱 I’m currently working with **Angular, SASS, TypeScript and C#**
 
 - 💬 Ask me about **React, HTML, CSS, JS, Angular and TypeScript**
 
